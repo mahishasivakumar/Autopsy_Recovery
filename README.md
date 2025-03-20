@@ -39,24 +39,29 @@ This experiment aims to demonstrate:
 - Enter the amount of memory to allocate for the new disk.
 
 - Click Shrink.
-  ![Screenshot 2025-03-19 220808](https://github.com/user-attachments/assets/6fdef27e-c4b2-43b6-b7e7-a280e377d7e7)
+  ![Screenshot 2025-03-20 094902](https://github.com/user-attachments/assets/f9ea27b3-79e2-4531-bf34-3e680e869330)
+
 
 
 ## 4.Create a New Volume
 
 - Right-click on the newly unallocated space → Select New Simple Volume.
-  ![Screenshot 2025-03-19 220859](https://github.com/user-attachments/assets/f6eb66bd-7167-4091-8504-5e859e6c995a)
+  ![Screenshot 2025-03-20 095001](https://github.com/user-attachments/assets/27b2fd03-4ca4-41f7-be83-294f5b0222ca)
+
 
 
 - Follow the wizard and assign a disk name.
-  ![Screenshot 2025-03-19 220922](https://github.com/user-attachments/assets/4fddc384-c0e2-4fe4-a268-f082a6c47389)
+  ![Screenshot 2025-03-20 095037](https://github.com/user-attachments/assets/40a27a4b-1abc-4fbc-b630-ca1c537757e1)
+
 
 
 - Click Finish to complete the process.
-  ![Screenshot 2025-03-19 220935](https://github.com/user-attachments/assets/f06a24e8-e373-4271-94bc-87cac73f6e27)
+  ![Screenshot 2025-03-20 095054](https://github.com/user-attachments/assets/bf8de9fb-713c-42b5-88fb-7c3f3282450e)
+
   
-- The new Disk Partition is created as **PRAVEEN V**.
-  ![Screenshot 2025-03-19 221000](https://github.com/user-attachments/assets/9b603c47-c7da-4012-9b35-3953cfeea86c)
+- The new Disk Partition is created as **MAHISHA S**.
+  ![Screenshot 2025-03-20 095119](https://github.com/user-attachments/assets/fa6779d1-c6e5-4a7b-a8b5-a6dab3b6b290)
+
 
   
 ## Step2: Adding and Deleting Files for Recovery
@@ -66,7 +71,8 @@ This experiment aims to demonstrate:
 - Open File Explorer → Navigate to the newly created drive (C: or D:).
 
 - Transfer images or files into it.
-![Screenshot 2025-03-19 224841](https://github.com/user-attachments/assets/b9fdc15b-f166-435b-9b0d-cd5d40da55de)
+![Screenshot 2025-03-20 100942](https://github.com/user-attachments/assets/1fde9b34-b001-4db1-8bb6-599498ec6791)
+
 
 
 
@@ -87,28 +93,34 @@ This experiment aims to demonstrate:
 
 - Enter a case name (e.g., Autopsy1).
 - Select a location for the case folder → Click Next → Finish.
-  ![Screenshot 2025-03-19 223051](https://github.com/user-attachments/assets/2b476fe0-199c-4c25-96c2-63c78183bb6f)
+  ![Screenshot 2025-03-20 101159](https://github.com/user-attachments/assets/96e4d9e3-403b-47e7-985c-48bfd5ee65e8)
+
 - Add optional information
-  ![Screenshot 2025-03-19 223141](https://github.com/user-attachments/assets/45ff54d1-1967-4671-8dbb-a865f55f0316)
+  ![Screenshot 2025-03-20 101237](https://github.com/user-attachments/assets/97a42cf6-4e45-4bca-9ee0-fc11c6a52b4c)
+
 
 
 
 ## 2.Add the Partition as Evidence:
 
 - Click Add Data Source → Choose Host.
-   ![Screenshot 2025-03-19 223322](https://github.com/user-attachments/assets/3ad0612b-655b-406c-ab63-95912238b112)
+   ![Screenshot 2025-03-20 101338](https://github.com/user-attachments/assets/2cae65dd-0d06-43ef-989e-7f07dad19883)
+
 
 
 - Select Local Disk → Click Next.
-   ![Screenshot 2025-03-19 223337](https://github.com/user-attachments/assets/8ed1cda5-f34d-491b-8255-c59c62eadaa0)
+   ![Screenshot 2025-03-20 101349](https://github.com/user-attachments/assets/0eafbcca-b430-45c7-9f0c-b6c5254d799b)
+
 
 
 - Choose Disk → Select the VHD drive (Drive1).
-  ![Screenshot 2025-03-19 224001](https://github.com/user-attachments/assets/773c5a67-49c8-421c-b0be-8a19a0e173c8)
+  ![Screenshot 2025-03-20 101605](https://github.com/user-attachments/assets/44d4a210-6c1d-463c-9e0e-fd8b2551bc7c)
+
 
 
 - Click Next → Keep the default settings → Click Finish.
-  ![Screenshot 2025-03-19 224106](https://github.com/user-attachments/assets/3feb68c2-3a3a-4e21-b3b8-11f4dfac0990)
+  ![Screenshot 2025-03-20 101752](https://github.com/user-attachments/assets/ced6643a-ef0b-4de8-b4b6-b9bae1e9ac44)
+
 
 
 - Allow Autopsy to process the disk.
@@ -118,7 +130,8 @@ This experiment aims to demonstrate:
 - In the left panel, navigate to File Views → Deleted Files.
 
 - Locate your deleted images.
-  ![Screenshot 2025-03-19 225517](https://github.com/user-attachments/assets/66b60ab9-d3c0-409e-8298-e20cd4e2d9d0)
+  ![Screenshot 2025-03-20 101848](https://github.com/user-attachments/assets/574b42fd-c254-4652-82a8-da39a0dfdc6b)
+
 
 
 - Right-click an image → Click Extract File.
@@ -126,9 +139,11 @@ This experiment aims to demonstrate:
 - Choose a folder for saving the recovered files (e.g., C:\image_recovery).
 
 - The deleted images are now restored!
-  ![Screenshot 2025-03-19 225556](https://github.com/user-attachments/assets/4d7bd91f-547f-4bdc-86c3-a695ab4848ad)
+  ![Screenshot 2025-03-20 101945](https://github.com/user-attachments/assets/0f0e48f4-d91e-471b-bd88-054746a29af1)
+
 - Check the disk.
-  ![{0A179D61-BB59-4CE5-AF4D-6A7CF218EC6E}](https://github.com/user-attachments/assets/1d889ef5-1453-4ede-90a4-78087fa8d755)
+  ![Screenshot 2025-03-20 102013](https://github.com/user-attachments/assets/efa22c7a-2080-4019-8d01-5e02bae8ab9a)
+
   
 ## Step 4: Removing the Disk Partition (Optional Cleanup)
 
